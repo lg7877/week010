@@ -1,0 +1,2 @@
+run = 'npm --prefix ./wubai010 run dev'
+entrypoint = './wubai010/pages/index.jsx'
